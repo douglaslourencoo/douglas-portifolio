@@ -171,7 +171,7 @@ body {
 
 @media (max-width: 395px) {
   .header-title h1 {
-    font-size: 1rem;
+    font-size: 1.3rem;    
   }
 }
 
