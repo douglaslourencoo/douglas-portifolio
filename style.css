@@ -569,7 +569,7 @@ body {
   padding: 2px 4px;
   border-radius: 4px;
   color: var(--color-black);
-  background-color: var(--color-blue);
+  background-color: var(--color-cristalpuro);
 }
 
 .box-about h4 {
@@ -580,7 +580,7 @@ body {
 .box-about h4 p {
   display: inline;
   padding: 2px 4px;
-  color: var(--color-blue);
+  text-decoration: underline;
 }
 
 .button-cta {
@@ -601,7 +601,7 @@ body {
   font-weight: 700;
   letter-spacing: .15rem;
   color: var(--color-white);
-  background: var(--color-black);
+  background: var(--color-blue);
   text-align: center;
   text-decoration: none;
 
@@ -627,6 +627,7 @@ body {
 
   .box-about h3 {
     margin: 2rem 1rem;
+    font-size: 1.25rem;
   }
 
   .box-about h4 {
